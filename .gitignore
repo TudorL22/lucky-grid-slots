@@ -1,0 +1,20 @@
+# PyInstaller build output (rebuild locally, don't commit)
+build/
+dist/
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Old build configs (replaced by "Lucky Grid Slots.spec")
+Slots_game.spec
+Dazzling Hot Ripoff.spec
